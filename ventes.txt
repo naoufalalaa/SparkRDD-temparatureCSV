@@ -1,0 +1,7 @@
+2021;Marrakech;MacBook Air 2021;20000
+2020;Casablanca;MacBook Pro 2020;24000
+2020;Casablanca;MacBook Air ;12000
+2021;Marrakech;HP 9090;4000
+2021;Casablanca;DELL;4000
+2021;Casablanca;HP;8000
+2021;Marrakech;Lenovo 9090;4000
